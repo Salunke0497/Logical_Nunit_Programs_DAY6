@@ -11,7 +11,8 @@ namespace Logocalprogram
         static void Main(string[] args)
         {
             //fibonacci.fibbo();
-            Perfect.per();
+            //Perfect.per();
+            Prime.pri();
             Console.ReadLine();
         }
     }
