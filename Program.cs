@@ -10,7 +10,8 @@ namespace Logocalprogram
     {
         static void Main(string[] args)
         {
-            fibonacci.fibbo();
+            //fibonacci.fibbo();
+            Perfect.per();
             Console.ReadLine();
         }
     }
