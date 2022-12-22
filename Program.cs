@@ -13,7 +13,8 @@ namespace Logocalprogram
             //fibonacci.fibbo();
             //Perfect.per();
             //Prime.pri();
-            reverse.rev();
+            //reverse.rev();
+            Coupon.coup();
             Console.ReadLine();
         }
     }
